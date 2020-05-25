@@ -1,0 +1,29 @@
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+#container {
+	width: 800px;
+	margin: 30px 0;
+}
+.mainContent {
+	padding:70px 0;
+	margin-left:60px;
+}
+.blockSeparator {
+	border-left:1px solid #c8b59b;
+	float:left;
+	height:275px;
+	margin:0 20px;
+}
+
+.houseBlock {
+	width:400px;
+	float:left;
+	margin:0 6px;
+}
